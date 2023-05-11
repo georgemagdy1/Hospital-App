@@ -1,0 +1,26 @@
+C:\Users\george\source\repos\hospital 1\hospital 1\bin\Debug\hospital 1.exe.config
+C:\Users\george\source\repos\hospital 1\hospital 1\bin\Debug\hospital 1.exe
+C:\Users\george\source\repos\hospital 1\hospital 1\bin\Debug\hospital 1.pdb
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.AssemblyReference.cache
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital_1.create_file.resources
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital_1.Form1.resources
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital_1.Properties.Resources.resources
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.GenerateResource.cache
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.CoreCompileInputs.cache
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital 1.exe
+C:\Users\george\source\repos\hospital 1\hospital 1\obj\Debug\hospital 1.pdb
+D:\hospital 1\hospital 1\bin\Debug\hospital 1.exe.config
+D:\hospital 1\hospital 1\bin\Debug\hospital 1.exe
+D:\hospital 1\hospital 1\bin\Debug\hospital 1.pdb
+D:\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.AssemblyReference.cache
+D:\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.SuggestedBindingRedirects.cache
+D:\hospital 1\hospital 1\obj\Debug\hospital_1.create_file.resources
+D:\hospital 1\hospital 1\obj\Debug\hospital_1.Form1.resources
+D:\hospital 1\hospital 1\obj\Debug\hospital_1.Properties.Resources.resources
+D:\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.GenerateResource.cache
+D:\hospital 1\hospital 1\obj\Debug\hospital 1.csproj.CoreCompileInputs.cache
+D:\hospital 1\hospital 1\obj\Debug\hospital 1.exe
+D:\hospital 1\hospital 1\obj\Debug\hospital 1.pdb
+D:\hospital 1\hospital 1\obj\Debug\hospital_1.Insert.resources
+D:\hospital 1\hospital 1\obj\Debug\hospital_1.Display.resources
